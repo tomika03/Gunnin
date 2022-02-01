@@ -1,0 +1,6 @@
+<body>
+<script type="text/javascript">
+var l = new Date();
+document.write (l.toLocaleString());
+</script>
+</body>
